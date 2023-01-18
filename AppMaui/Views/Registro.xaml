@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="AppMaui.Views.Registro"
+             Title="Registro">
+     <StackLayout Padding="10, 0">
+        <Label Text="Nombre"/>
+        <Label Text="Direccion"/>
+        <Label Text="Telefono"/>
+        <Label 
+               FontSize="80"
+               HorizontalOptions="Center"
+               VerticalOptions="Center"
+               BindingContext="{x:Reference Name=slider}"
+               Text="{Binding Path=Value,StringFormat='{0:N0}'}"/>
+
+        <Slider x:Name="slider"
+                Maximum="120"
+                Minimum="18"
+                VerticalOptions="Center" />
+
+        <Button Text="Selecciona el Estado">
+            <FlyoutBase.ContextFlyout>
+                <MenuFlyout>
+                    <MenuFlyoutSubItem Text="México">
+                        <MenuFlyoutItem Text="Coahuila"/>
+                        <MenuFlyoutItem Text="Duranfo"/>
+                    </MenuFlyoutSubItem>
+                    
+                    <MenuFlyoutItem Text="EUA"/>
+                    <MenuFlyoutItem Text="Canada"/>
+                   
+
+                </MenuFlyout>
+
+            </FlyoutBase.ContextFlyout>
+
+        </Button>
+    </StackLayout>
+</ContentPage>
