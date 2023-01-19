@@ -3,15 +3,34 @@
     x:Class="AppMaui.AppShell"
     xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
     xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
-    
     xmlns:views="clr-namespace:AppMaui.Views"
     FlyoutHeaderBehavior="CollapseOnScroll">
 
-    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems">
+    <!--Definición del template del menú-->
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="AliceBlue"
+                  HeightRequest="150">
+                <Image Aspect="AspectFill"
+                       Source="perfil.png"
+                       Opacity="0.6" />
+
+                <Label Text="Perfil"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"
+                       VerticalTextAlignment="End" />
+            </Grid>            
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems"
+                
+                >
         <!--Listamos las opciones para mostrar en la parte de abajo-->
     
         <ShellContent Title="Nuevo +"
-                     
+                      
                       ContentTemplate="{DataTemplate views:Registro}" />
         <ShellContent Title="Configuración"
                     

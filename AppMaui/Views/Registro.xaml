@@ -2,11 +2,22 @@
 <ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
              x:Class="AppMaui.Views.Registro"
-             Title="Registro">
+             Title="Nuevo Registro">
+   
      <StackLayout Padding="10, 0">
-        <Label Text="Nombre"/>
-        <Label Text="Direccion"/>
-        <Label Text="Telefono"/>
+         
+        <Label Text="Nombre" FontSize="Medium" />
+        <Editor HorizontalOptions="Fill" BackgroundColor="AliceBlue"/>
+
+        <Label Text="Direccion" FontSize="Medium"/>
+        <Editor HorizontalOptions="Fill" BackgroundColor="AliceBlue"/>
+
+        <Label Text="Telefono" FontSize="Medium"/>
+        <Editor HorizontalOptions="Fill" BackgroundColor="AliceBlue"/>
+
+        <Label Text="Edad" FontSize="Medium"/>
+        
+
         <Label 
                FontSize="80"
                HorizontalOptions="Center"
@@ -19,22 +30,7 @@
                 Minimum="18"
                 VerticalOptions="Center" />
 
-        <Button Text="Selecciona el Estado">
-            <FlyoutBase.ContextFlyout>
-                <MenuFlyout>
-                    <MenuFlyoutSubItem Text="México">
-                        <MenuFlyoutItem Text="Coahuila"/>
-                        <MenuFlyoutItem Text="Duranfo"/>
-                    </MenuFlyoutSubItem>
-                    
-                    <MenuFlyoutItem Text="EUA"/>
-                    <MenuFlyoutItem Text="Canada"/>
-                   
-
-                </MenuFlyout>
-
-            </FlyoutBase.ContextFlyout>
-
-        </Button>
+        <Button Text="Guardar" />
+        
     </StackLayout>
 </ContentPage>

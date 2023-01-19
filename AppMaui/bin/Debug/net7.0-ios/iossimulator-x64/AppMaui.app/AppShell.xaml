@@ -1,0 +1,51 @@
+﻿<?xml version="1.0" encoding="UTF-8" ?>
+<Shell
+    x:Class="AppMaui.AppShell"
+    xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+    xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+    xmlns:views="clr-namespace:AppMaui.Views"
+    FlyoutHeaderBehavior="CollapseOnScroll"
+    FlyoutBackgroundColor="AliceBlue">
+
+    <Shell.FlyoutHeaderTemplate>
+        <DataTemplate>
+            <Grid BackgroundColor="LightSlateGray"
+                  HeightRequest="200">
+                <Image Aspect="AspectFill"
+                       Source="perfil.png"
+                       Opacity="0.6" />
+
+                <Label Text="Perfil"
+                       TextColor="White"
+                       FontAttributes="Bold"
+                       HorizontalTextAlignment="Center"
+                       VerticalTextAlignment="Center" />
+            </Grid>            
+        </DataTemplate>
+    </Shell.FlyoutHeaderTemplate>
+
+    <FlyoutItem FlyoutDisplayOptions="AsMultipleItems"
+                >
+        <!--Listamos las opciones para mostrar en la parte de abajo-->
+    
+        <ShellContent Title="Nuevo +"
+                     
+                      ContentTemplate="{DataTemplate views:Registro}" />
+        <ShellContent Title="Configuración"
+                    
+                      ContentTemplate="{DataTemplate views:Configuracion}" />  
+        <ShellContent Title="Perfil"
+                   
+                      ContentTemplate="{DataTemplate views:Perfil}" />
+        <!--Cada seleccion de este lista del menu seguira visible-->
+    </FlyoutItem>
+
+    <!--#region
+        Si solo queremos un menú simple en una coluimna agregar los elementos aqui.
+        Al agregar elementos aqui la lista de opciones del menú de arriba no se mostrara
+    -->
+        
+    <ShellContent Title="Información"
+                        ContentTemplate="{DataTemplate views:Informacion}" />  
+
+</Shell>

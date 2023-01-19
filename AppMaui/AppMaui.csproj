@@ -71,8 +71,12 @@
 	</ItemGroup>
 	<ItemGroup>
 	  <None Remove="Views\" />
+	  <None Remove="Resources\Images\perfil.png" />
 	</ItemGroup>
 	<ItemGroup>
 	  <Folder Include="Views\" />
+	</ItemGroup>
+	<ItemGroup>
+	  <BundleResource Include="Resources\Images\perfil.png" />
 	</ItemGroup>
 </Project>
