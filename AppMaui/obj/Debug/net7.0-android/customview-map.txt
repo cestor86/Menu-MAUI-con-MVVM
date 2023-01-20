@@ -17,12 +17,9 @@ attr;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppM
 attr;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/values/attr.xml
 background;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon_round.xml
 background;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
-bitmap;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
-bitmap;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
 cache-path;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
 color;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/values/colors.xml
 color;obj/Debug/net7.0-android/res/values/colors.xml
-color;obj/Debug/net7.0-android/resizetizer/sp/values/maui_colors.xml
 com.google.android.material.appbar.AppBarLayout;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
 com.google.android.material.appbar.AppBarLayout;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/layout/shellcontent.xml
 com.google.android.material.appbar.AppBarLayout;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/layout/navigationlayout.xml
@@ -37,12 +34,8 @@ foreground;obj/Debug/net7.0-android/resizetizer/r/mipmap-anydpi-v26/appicon.xml
 item;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/152/jl/res/values/styles.xml
 item;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash.xml
 item;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/values/styles.xml
-item;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
-item;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
 layer-list;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash_image.xml
 layer-list;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/drawable/maui_splash.xml
-layer-list;obj/Debug/net7.0-android/resizetizer/sp/drawable-v31/maui_splash_image.xml
-layer-list;obj/Debug/net7.0-android/resizetizer/sp/drawable/maui_splash_image.xml
 microsoft.maui.controls.platform.compatibility.ShellFlyoutLayout;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/layout/flyoutcontent.xml
 paths;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/155/jl/res/xml/microsoft_maui_essentials_fileprovider_file_paths.xml
 resources;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/values/strings.xml
@@ -53,7 +46,6 @@ resources;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM
 resources;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/values/colors.xml
 resources;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/154/jl/res/values/styles.xml
 resources;obj/Debug/net7.0-android/res/values/colors.xml
-resources;obj/Debug/net7.0-android/resizetizer/sp/values/maui_colors.xml
 set;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromleft.xml
 set;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/anim/enterfromright.xml
 set;/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-android/lp/151/jl/res/anim/exittoleft.xml
