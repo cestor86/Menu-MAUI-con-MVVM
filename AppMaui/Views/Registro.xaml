@@ -7,7 +7,7 @@
      <StackLayout Padding="10, 0">
          
         <Label Text="Nombre" FontSize="Medium" />
-        <Editor HorizontalOptions="Fill" />
+        <Editor HorizontalOptions="Fill" BackgroundColor="#512BD4"/>
 
         <Label Text="Direccion" FontSize="Medium"/>
         <Editor HorizontalOptions="Fill" BackgroundColor="#512BD4"/>
