@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "BQcE6KKk+5wCFICL2Gl7VOBF8HrC96zdGQzCTvXI5Lp8Y0nY4cgZ5zC8jlZyeiu4bPfpt9PqyDDlv8xyB4BDfQ==",
+  "dgSpecHash": "S76Z1TJaMIt875PAD8EjwPax0TwGk2xgBHfQOfuKspGmGkiCpB57e8I8PUI0q/gMsa464p2pQenSgY9g88/Dbw==",
   "success": true,
   "projectFilePath": "/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/AppMaui.csproj",
   "expectedPackageFiles": [
+    "/Users/cesardavidrodriguezmonrreal/.nuget/packages/communitytoolkit.mvvm/8.1.0/communitytoolkit.mvvm.8.1.0.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/googlegson/2.9.1.1/googlegson.2.9.1.1.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.extensions.configuration/7.0.0/microsoft.extensions.configuration.7.0.0.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.extensions.configuration.abstractions/7.0.0/microsoft.extensions.configuration.abstractions.7.0.0.nupkg.sha512",
