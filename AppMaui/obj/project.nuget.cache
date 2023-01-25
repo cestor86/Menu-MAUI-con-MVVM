@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "S76Z1TJaMIt875PAD8EjwPax0TwGk2xgBHfQOfuKspGmGkiCpB57e8I8PUI0q/gMsa464p2pQenSgY9g88/Dbw==",
+  "dgSpecHash": "zcvqraJvfWrcCXcRA63Yp6EvyxkXaGn3mt5a/cQAI8Vb63e4GKb3N1YNw0mAhEoQB9ZiEMqcL4sEcWK1+0lVtg==",
   "success": true,
   "projectFilePath": "/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/AppMaui.csproj",
   "expectedPackageFiles": [
@@ -15,7 +15,7 @@
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.extensions.logging.debug/7.0.0/microsoft.extensions.logging.debug.7.0.0.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.extensions.options/7.0.0/microsoft.extensions.options.7.0.0.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.extensions.primitives/7.0.0/microsoft.extensions.primitives.7.0.0.nupkg.sha512",
-    "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.maui.graphics/7.0.52/microsoft.maui.graphics.7.0.52.nupkg.sha512",
+    "/Users/cesardavidrodriguezmonrreal/.nuget/packages/microsoft.maui.graphics/7.0.58/microsoft.maui.graphics.7.0.58.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/xamarin.android.glide/4.13.2.2/xamarin.android.glide.4.13.2.2.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/xamarin.android.glide.annotations/4.13.2.2/xamarin.android.glide.annotations.4.13.2.2.nupkg.sha512",
     "/Users/cesardavidrodriguezmonrreal/.nuget/packages/xamarin.android.glide.disklrucache/4.13.2.2/xamarin.android.glide.disklrucache.4.13.2.2.nupkg.sha512",

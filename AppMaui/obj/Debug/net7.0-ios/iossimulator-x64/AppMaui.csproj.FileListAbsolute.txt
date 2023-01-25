@@ -268,3 +268,4 @@
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-ios/iossimulator-x64/AppMaui.csproj.CopyComplete
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-ios/iossimulator-x64/AppMaui.genruntimeconfig.cache
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/obj/Debug/net7.0-ios/iossimulator-x64/ref/AppMaui.dll
+/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/CommunityToolkit.Mvvm.dll

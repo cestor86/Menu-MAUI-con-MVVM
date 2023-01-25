@@ -1,4 +1,5 @@
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/publish/../AppMaui.app/icudt.dat
+/Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/publish/../AppMaui.app/CommunityToolkit.Mvvm.dll
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/publish/../AppMaui.app/Microsoft.Extensions.Configuration.dll
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/publish/../AppMaui.app/Microsoft.Extensions.Configuration.Abstractions.dll
 /Users/cesardavidrodriguezmonrreal/Projects/AppMaui/Menu-MAUI-con-MVVM/AppMaui/bin/Debug/net7.0-ios/iossimulator-x64/publish/../AppMaui.app/Microsoft.Extensions.DependencyInjection.dll

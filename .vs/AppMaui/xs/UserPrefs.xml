@@ -1,4 +1,40 @@
-﻿<Properties StartupConfiguration="{C94B6734-992D-4C39-94BC-AA86026A35DC}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.ItemProperties.AppMaui PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.AC15D480-510B-4A0E-BFDD-34DABC6D60A5" />
+﻿<Properties GitUserInfo="UsingGIT" StartupConfiguration="{C94B6734-992D-4C39-94BC-AA86026A35DC}|Default">
+  <Xamarin.Addins.Core.Project ActiveDebugTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.AppMaui PreferredExecutionTarget="MyAppleMacCatalystID" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="AppMaui/AppShell.xaml">
+    <Files>
+      <File FileName="AppMaui/AppShell.xaml" Line="6" Column="46" />
+      <File FileName="AppMaui/Resources/Styles/Colors.xaml" />
+      <File FileName="AppMaui/Views/Registro.xaml" />
+      <File FileName="AppMaui/Platforms/MacCatalyst/Program.cs" />
+      <File FileName="AppMaui/Platforms/iOS/Program.cs" />
+      <File FileName="AppMaui/Platforms/Android/MainApplication.cs" />
+      <File FileName="AppMaui/Platforms/iOS/AppDelegate.cs" />
+      <File FileName="AppMaui/Platforms/Android/MainActivity.cs" />
+      <File FileName="AppMaui/Views/Configuracion.xaml" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="AppMaui" expanded="True">
+            <Node name="AppMaui" expanded="True">
+              <Node name="Resources" expanded="True">
+                <Node name="Images" expanded="True">
+                  <Node name="perfil.png" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Views" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.MonoDroid LastDeploySdkVersion="13.1.0.1" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MultiItemStartupConfigurations />
 </Properties>

@@ -200,7 +200,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -2141,7 +2141,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -4082,7 +4082,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -6023,7 +6023,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -7964,7 +7964,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -9905,7 +9905,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -11846,7 +11846,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-android33.0/Microsoft.Maui.Graphics.dll": {
@@ -13774,7 +13774,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -13974,7 +13974,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -14174,7 +14174,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -14374,7 +14374,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -14574,7 +14574,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -14774,7 +14774,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -14974,7 +14974,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-ios16.1/Microsoft.Maui.Graphics.dll": {
@@ -15174,7 +15174,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -15374,7 +15374,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -15574,7 +15574,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -15774,7 +15774,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -15974,7 +15974,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -16174,7 +16174,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -16374,7 +16374,7 @@
           "buildTransitive/net6.0/_._": {}
         }
       },
-      "Microsoft.Maui.Graphics/7.0.52": {
+      "Microsoft.Maui.Graphics/7.0.58": {
         "type": "package",
         "compile": {
           "lib/net7.0-maccatalyst16.1/Microsoft.Maui.Graphics.dll": {
@@ -16731,10 +16731,10 @@
         "useSharedDesignerContext.txt"
       ]
     },
-    "Microsoft.Maui.Graphics/7.0.52": {
-      "sha512": "MSV8tGhjgPuzxvU97enZgZeUejHqkhQaAy7yBY0sqmJpsWvbw5qcWgwLsXEob0AmTLCY08yK/PnMdV34hCuTAQ==",
+    "Microsoft.Maui.Graphics/7.0.58": {
+      "sha512": "xKmRWs1oflG4dv2u28wNtP9scXDzvm8k0wSIJtEeQUxZeGF3dZPb6hyU0gjsRoGkrg7yPM3DZBrSqiR9RNXNeQ==",
       "type": "package",
-      "path": "microsoft.maui.graphics/7.0.52",
+      "path": "microsoft.maui.graphics/7.0.58",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
@@ -16768,7 +16768,7 @@
         "lib/netstandard2.1/Microsoft.Maui.Graphics.dll",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.pdb",
         "lib/netstandard2.1/Microsoft.Maui.Graphics.xml",
-        "microsoft.maui.graphics.7.0.52.nupkg.sha512",
+        "microsoft.maui.graphics.7.0.58.nupkg.sha512",
         "microsoft.maui.graphics.nuspec"
       ]
     },
@@ -18778,7 +18778,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.52",
+      "Microsoft.Maui.Graphics >= 7.0.58",
       "Xamarin.Android.Glide >= 4.13.2.2",
       "Xamarin.AndroidX.Browser >= 1.4.0.3",
       "Xamarin.AndroidX.Legacy.Support.V4 >= 1.0.0.15",
@@ -18798,7 +18798,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.52"
+      "Microsoft.Maui.Graphics >= 7.0.58"
     ],
     "net7.0-maccatalyst16.1": [
       "CommunityToolkit.Mvvm >= 8.1.0",
@@ -18807,7 +18807,7 @@
       "Microsoft.Extensions.Logging >= 7.0.0",
       "Microsoft.Extensions.Logging.Abstractions >= 7.0.0",
       "Microsoft.Extensions.Logging.Debug >= 7.0.0",
-      "Microsoft.Maui.Graphics >= 7.0.52"
+      "Microsoft.Maui.Graphics >= 7.0.58"
     ]
   },
   "packageFolders": {
@@ -18889,7 +18889,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.52, )",
+            "version": "[7.0.58, )",
             "autoReferenced": true
           },
           "Xamarin.Android.Glide": {
@@ -18976,7 +18976,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       },
       "net7.0-ios16.1": {
         "targetAlias": "net7.0-ios",
@@ -19011,7 +19011,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.52, )",
+            "version": "[7.0.58, )",
             "autoReferenced": true
           }
         },
@@ -19043,7 +19043,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       },
       "net7.0-maccatalyst16.1": {
         "targetAlias": "net7.0-maccatalyst",
@@ -19078,7 +19078,7 @@
           },
           "Microsoft.Maui.Graphics": {
             "target": "Package",
-            "version": "[7.0.52, )",
+            "version": "[7.0.58, )",
             "autoReferenced": true
           }
         },
@@ -19111,7 +19111,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.102/RuntimeIdentifierGraph.json"
       }
     },
     "runtimes": {
